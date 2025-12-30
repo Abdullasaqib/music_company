@@ -121,8 +121,13 @@ The system outputs tangible evidence of its autonomous operation, designed for a
     | :---: | :---: |
     | ![Revenue](docs/images/revenue_chart.svg) | ![Catalog](docs/images/catalog_chart.svg) |
 
-*   **Demo Video**: [Watch the Autonomous Loop (WebP)](docs/media/demo.webp)
-    *   Screen recording of the autonomous agent loop, showing reactive billing and marketing log updates.
+*   **Demo Video**:
+    
+    <video src="https://github.com/Abdullasaqib/music_company/raw/main/docs/media/demo_full.mp4" controls="controls" autoplay="autoplay" loop="loop" muted="muted" style="max-width: 100%;">
+      Your browser does not support the video tag.
+    </video>
+    
+    *   *Full walkthrough of the autonomous agent loop, showing reactive billing and marketing log updates.*
 
 ---
 
