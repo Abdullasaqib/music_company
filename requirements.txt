@@ -1,0 +1,5 @@
+apscheduler>=3.10.4
+matplotlib>=3.7.5
+pandas>=2.0.0
+tabulate>=0.9.0
+python-dotenv>=1.0.0

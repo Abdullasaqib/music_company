@@ -1,0 +1,2454 @@
+{
+    "company_name": "Antigravity Music",
+    "balance": 200.0,
+    "simulated_date": "2026-03-12T18:17:21.200064",
+    "catalog": [
+        {
+            "id": "TRACK-1458",
+            "title": "General Lo-fi 72",
+            "genre": "Lo-fi",
+            "tempo": 92,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Digital dreams\nVerse: Signal in the noise",
+            "prompt": "A Lo-fi track at 92BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2025-12-30T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1680",
+            "title": "Sleep Cyberpunk 1",
+            "genre": "Cyberpunk",
+            "tempo": 115,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Drifting stars\nVerse: Quiet whispers",
+            "prompt": "A Cyberpunk track at 115BPM with Sleep vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2025-12-31T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-5360",
+            "title": "General Orchestral 90",
+            "genre": "Orchestral",
+            "tempo": 125,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Neon nights",
+            "prompt": "A Orchestral track at 125BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-01T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9444",
+            "title": "General Deep House 14",
+            "genre": "Deep House",
+            "tempo": 94,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Digital dreams\nVerse: Signal in the noise",
+            "prompt": "A Deep House track at 94BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-02T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-8261",
+            "title": "General Lo-fi 52",
+            "genre": "Lo-fi",
+            "tempo": 133,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Digital dreams",
+            "prompt": "A Lo-fi track at 133BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-03T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-4464",
+            "title": "Sleep Cyberpunk 5",
+            "genre": "Cyberpunk",
+            "tempo": 94,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Gentle ocean waves",
+            "prompt": "A Cyberpunk track at 94BPM with Sleep vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-04T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7154",
+            "title": "Sleep Lo-fi 44",
+            "genre": "Lo-fi",
+            "tempo": 133,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Gentle ocean waves",
+            "prompt": "A Lo-fi track at 133BPM with Sleep vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-05T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3473",
+            "title": "Sleep Lo-fi 5",
+            "genre": "Lo-fi",
+            "tempo": 111,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Gentle ocean waves",
+            "prompt": "A Lo-fi track at 111BPM with Sleep vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-06T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-2753",
+            "title": "Focus Synthwave 54",
+            "genre": "Synthwave",
+            "tempo": 130,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Deep concentration\nVerse: Steady rhythm of thought",
+            "prompt": "A Synthwave track at 130BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-07T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-2021",
+            "title": "General Deep House 93",
+            "genre": "Deep House",
+            "tempo": 123,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Neon nights\nVerse: Signal in the noise",
+            "prompt": "A Deep House track at 123BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-08T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3325",
+            "title": "Focus Lo-fi 51",
+            "genre": "Lo-fi",
+            "tempo": 88,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Flowing silence",
+            "prompt": "A Lo-fi track at 88BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-09T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1150",
+            "title": "General Synthwave 21",
+            "genre": "Synthwave",
+            "tempo": 125,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Digital dreams",
+            "prompt": "A Synthwave track at 125BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-10T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7059",
+            "title": "General Lo-fi 17",
+            "genre": "Lo-fi",
+            "tempo": 119,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Neon nights\nVerse: Signal in the noise",
+            "prompt": "A Lo-fi track at 119BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-11T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3597",
+            "title": "Sleep Synthwave 91",
+            "genre": "Synthwave",
+            "tempo": 133,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Drifting stars\nVerse: Quiet whispers",
+            "prompt": "A Synthwave track at 133BPM with Sleep vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-12T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9282",
+            "title": "Focus Cyberpunk 29",
+            "genre": "Cyberpunk",
+            "tempo": 96,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Flowing silence\nVerse: Steady rhythm of thought",
+            "prompt": "A Cyberpunk track at 96BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-13T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6048",
+            "title": "Workout Lo-fi 51",
+            "genre": "Lo-fi",
+            "tempo": 132,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Break the limit\nVerse: Rise and grind",
+            "prompt": "A Lo-fi track at 132BPM with Workout vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-14T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6021",
+            "title": "General Deep House 9",
+            "genre": "Deep House",
+            "tempo": 105,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Neon nights\nVerse: Signal in the noise",
+            "prompt": "A Deep House track at 105BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-15T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1044",
+            "title": "Focus Synthwave 82",
+            "genre": "Synthwave",
+            "tempo": 137,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Flowing silence",
+            "prompt": "A Synthwave track at 137BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-16T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-5503",
+            "title": "Sleep Orchestral 91",
+            "genre": "Orchestral",
+            "tempo": 101,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Gentle ocean waves\nVerse: Drifting stars",
+            "prompt": "A Orchestral track at 101BPM with Sleep vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-17T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6386",
+            "title": "Sleep Orchestral 38",
+            "genre": "Orchestral",
+            "tempo": 80,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Drifting stars\nVerse: Quiet whispers",
+            "prompt": "A Orchestral track at 80BPM with Sleep vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-18T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6232",
+            "title": "General Deep House 100",
+            "genre": "Deep House",
+            "tempo": 101,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Neon nights\nVerse: Digital dreams",
+            "prompt": "A Deep House track at 101BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-19T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-2287",
+            "title": "Focus Cyberpunk 16",
+            "genre": "Cyberpunk",
+            "tempo": 119,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Flowing silence",
+            "prompt": "A Cyberpunk track at 119BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-20T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-8585",
+            "title": "General Deep House 36",
+            "genre": "Deep House",
+            "tempo": 135,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Digital dreams\nVerse: Neon nights",
+            "prompt": "A Deep House track at 135BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-21T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1190",
+            "title": "Focus Orchestral 29",
+            "genre": "Orchestral",
+            "tempo": 128,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Deep concentration\nVerse: Steady rhythm of thought",
+            "prompt": "A Orchestral track at 128BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-22T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7998",
+            "title": "Focus Lo-fi 76",
+            "genre": "Lo-fi",
+            "tempo": 118,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Flowing silence\nVerse: Deep concentration",
+            "prompt": "A Lo-fi track at 118BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-23T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6769",
+            "title": "General Cyberpunk 75",
+            "genre": "Cyberpunk",
+            "tempo": 102,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Digital dreams\nVerse: Neon nights",
+            "prompt": "A Cyberpunk track at 102BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-24T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-4384",
+            "title": "Focus Lo-fi 59",
+            "genre": "Lo-fi",
+            "tempo": 100,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Flowing silence",
+            "prompt": "A Lo-fi track at 100BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-25T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-2434",
+            "title": "General Synthwave 96",
+            "genre": "Synthwave",
+            "tempo": 112,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Digital dreams\nVerse: Neon nights",
+            "prompt": "A Synthwave track at 112BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-26T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7103",
+            "title": "Focus Lo-fi 97",
+            "genre": "Lo-fi",
+            "tempo": 103,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Flowing silence",
+            "prompt": "A Lo-fi track at 103BPM with Focus vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-27T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9838",
+            "title": "General Synthwave 69",
+            "genre": "Synthwave",
+            "tempo": 106,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Digital dreams\nVerse: Neon nights",
+            "prompt": "A Synthwave track at 106BPM with General vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-28T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1287",
+            "title": "Workout Synthwave 11",
+            "genre": "Synthwave",
+            "tempo": 127,
+            "vocal_model": "Suno v3.5",
+            "music_model": "Riffusion v2",
+            "lyrics": "Chorus: Infinite energy\nVerse: Break the limit",
+            "prompt": "A Synthwave track at 127BPM with Workout vibes. Focus on clear vocals and layered synthesis.",
+            "timestamp": "2026-01-29T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9010",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 85,
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Flowing silence\nVerse: Steady rhythm of thought",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 85BPM, high density.",
+            "popularity": 59,
+            "timestamp": "2026-01-30T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7720",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 107,
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Neon nights\nVerse: Signal in the noise",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 107BPM, high density.",
+            "popularity": 79,
+            "timestamp": "2026-01-31T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3450",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 63,
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Gentle ocean waves\nVerse: Quiet whispers",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 63BPM, high density.",
+            "popularity": 91,
+            "timestamp": "2026-02-01T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-4402",
+            "title": "Workout Rap/Drill session",
+            "genre": "Rap/Drill",
+            "tempo": 134,
+            "context": "Workout",
+            "vocal_config": {
+                "emotion": "Aggressive",
+                "pitch": "High",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Break the limit\nVerse: Infinite energy",
+            "prompt": "AI Rap/Drill track for Workout. VOCALS: Aggressive, High pitch. MUSIC: 134BPM, high density.",
+            "popularity": 66,
+            "timestamp": "2026-02-02T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3224",
+            "title": "Workout Rap/Drill session",
+            "genre": "Rap/Drill",
+            "tempo": 130,
+            "context": "Workout",
+            "vocal_config": {
+                "emotion": "Aggressive",
+                "pitch": "High",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Infinite energy\nVerse: Rise and grind",
+            "prompt": "AI Rap/Drill track for Workout. VOCALS: Aggressive, High pitch. MUSIC: 130BPM, high density.",
+            "popularity": 11,
+            "timestamp": "2026-02-03T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1847",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 93,
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Deep concentration",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 93BPM, high density.",
+            "popularity": 61,
+            "timestamp": "2026-02-04T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6860",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 55,
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Drifting stars\nVerse: Gentle ocean waves",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 55BPM, high density.",
+            "popularity": 37,
+            "timestamp": "2026-02-05T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-4107",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 105,
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Digital dreams",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 105BPM, high density.",
+            "popularity": 26,
+            "timestamp": "2026-02-06T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9369",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 56,
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Gentle ocean waves\nVerse: Quiet whispers",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 56BPM, high density.",
+            "popularity": 47,
+            "timestamp": "2026-02-07T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1389",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 110,
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Digital dreams",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 110BPM, high density.",
+            "popularity": 89,
+            "timestamp": "2026-02-08T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-5303",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 90,
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Deep concentration\nVerse: Steady rhythm of thought",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 90BPM, high density.",
+            "popularity": 72,
+            "timestamp": "2026-02-09T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3991",
+            "title": "Workout Rap/Drill session",
+            "genre": "Rap/Drill",
+            "tempo": 140,
+            "context": "Workout",
+            "vocal_config": {
+                "emotion": "Aggressive",
+                "pitch": "High",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Infinite energy\nVerse: Rise and grind",
+            "prompt": "AI Rap/Drill track for Workout. VOCALS: Aggressive, High pitch. MUSIC: 140BPM, high density.",
+            "popularity": 98,
+            "timestamp": "2026-02-10T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6666",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 65,
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Gentle ocean waves\nVerse: Drifting stars",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 65BPM, high density.",
+            "popularity": 50,
+            "timestamp": "2026-02-11T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-5737",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 93,
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Flowing silence",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 93BPM, high density.",
+            "popularity": 28,
+            "timestamp": "2026-02-12T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1702",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 110,
+            "key": "Eb",
+            "scale": "Pentatonic",
+            "synth": "Square",
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Neon nights\nVerse: Signal in the noise",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 110BPM, high density.",
+            "popularity": 13,
+            "timestamp": "2026-02-13T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9535",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 88,
+            "key": "Bb",
+            "scale": "Melodic Minor",
+            "synth": "Square",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Deep concentration",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 88BPM, high density.",
+            "popularity": 24,
+            "timestamp": "2026-02-14T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9249",
+            "title": "Workout Rap/Drill session",
+            "genre": "Rap/Drill",
+            "tempo": 132,
+            "key": "C",
+            "scale": "Pentatonic",
+            "synth": "Sine",
+            "context": "Workout",
+            "vocal_config": {
+                "emotion": "Aggressive",
+                "pitch": "High",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Rise and grind\nVerse: Infinite energy",
+            "prompt": "AI Rap/Drill track for Workout. VOCALS: Aggressive, High pitch. MUSIC: 132BPM, high density.",
+            "popularity": 56,
+            "timestamp": "2026-02-15T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7826",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 64,
+            "key": "Eb",
+            "scale": "Pentatonic",
+            "synth": "Triangle",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Gentle ocean waves\nVerse: Drifting stars",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 64BPM, high density.",
+            "popularity": 77,
+            "timestamp": "2026-02-16T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-2449",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 93,
+            "key": "E",
+            "scale": "Pentatonic",
+            "synth": "Sawtooth",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Flowing silence\nVerse: Deep concentration",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 93BPM, high density.",
+            "popularity": 69,
+            "timestamp": "2026-02-17T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1126",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 89,
+            "key": "C",
+            "scale": "Minor",
+            "synth": "Sine",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Flowing silence",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 89BPM, high density.",
+            "popularity": 81,
+            "timestamp": "2026-02-18T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-5458",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 59,
+            "key": "A",
+            "scale": "Major",
+            "synth": "Square",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Gentle ocean waves\nVerse: Drifting stars",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 59BPM, high density.",
+            "popularity": 97,
+            "timestamp": "2026-02-19T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-4010",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 110,
+            "key": "D",
+            "scale": "Major",
+            "synth": "Triangle",
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Neon nights",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 110BPM, high density.",
+            "popularity": 12,
+            "timestamp": "2026-02-20T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9837",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 85,
+            "key": "C",
+            "scale": "Pentatonic",
+            "synth": "Triangle",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Deep concentration\nVerse: Flowing silence",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 85BPM, high density.",
+            "popularity": 90,
+            "timestamp": "2026-02-21T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9545",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 106,
+            "key": "C",
+            "scale": "Minor",
+            "synth": "Square",
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Digital dreams",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 106BPM, high density.",
+            "popularity": 98,
+            "timestamp": "2026-02-22T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1164",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 58,
+            "key": "F",
+            "scale": "Minor",
+            "synth": "Triangle",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Gentle ocean waves",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 58BPM, high density.",
+            "popularity": 35,
+            "timestamp": "2026-02-23T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7656",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 62,
+            "key": "Eb",
+            "scale": "Melodic Minor",
+            "synth": "Square",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Drifting stars\nVerse: Quiet whispers",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 62BPM, high density.",
+            "popularity": 41,
+            "timestamp": "2026-02-24T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-8648",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 55,
+            "key": "G",
+            "scale": "Melodic Minor",
+            "synth": "Sine",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Gentle ocean waves",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 55BPM, high density.",
+            "popularity": 77,
+            "timestamp": "2026-02-25T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7766",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 64,
+            "key": "A",
+            "scale": "Minor",
+            "synth": "Square",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Drifting stars\nVerse: Quiet whispers",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 64BPM, high density.",
+            "popularity": 85,
+            "timestamp": "2026-02-26T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7273",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 85,
+            "key": "G",
+            "scale": "Melodic Minor",
+            "synth": "Sine",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Steady rhythm of thought\nVerse: Deep concentration",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 85BPM, high density.",
+            "popularity": 90,
+            "timestamp": "2026-02-27T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-2673",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 61,
+            "key": "A",
+            "scale": "Minor",
+            "synth": "Triangle",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Drifting stars\nVerse: Gentle ocean waves",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 61BPM, high density.",
+            "popularity": 56,
+            "timestamp": "2026-02-28T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-5829",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 107,
+            "key": "Eb",
+            "scale": "Melodic Minor",
+            "synth": "Triangle",
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Neon nights",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 107BPM, high density.",
+            "popularity": 46,
+            "timestamp": "2026-03-01T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-4260",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 87,
+            "key": "E",
+            "scale": "Major",
+            "synth": "Sawtooth",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Deep concentration\nVerse: Steady rhythm of thought",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 87BPM, high density.",
+            "popularity": 22,
+            "timestamp": "2026-03-02T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-8079",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 94,
+            "key": "D",
+            "scale": "Pentatonic",
+            "synth": "Sine",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Deep concentration\nVerse: Flowing silence",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 94BPM, high density.",
+            "popularity": 79,
+            "timestamp": "2026-03-03T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9122",
+            "title": "Workout Rap/Drill session",
+            "genre": "Rap/Drill",
+            "tempo": 138,
+            "key": "A",
+            "scale": "Pentatonic",
+            "synth": "Square",
+            "context": "Workout",
+            "vocal_config": {
+                "emotion": "Aggressive",
+                "pitch": "High",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Rise and grind\nVerse: Infinite energy",
+            "prompt": "AI Rap/Drill track for Workout. VOCALS: Aggressive, High pitch. MUSIC: 138BPM, high density.",
+            "popularity": 98,
+            "timestamp": "2026-03-04T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9620",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 106,
+            "key": "Eb",
+            "scale": "Minor",
+            "synth": "Square",
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Neon nights",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 106BPM, high density.",
+            "popularity": 66,
+            "timestamp": "2026-03-05T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-9461",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 87,
+            "key": "E",
+            "scale": "Melodic Minor",
+            "synth": "Square",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Flowing silence\nVerse: Deep concentration",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 87BPM, high density.",
+            "popularity": 31,
+            "timestamp": "2026-03-06T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1159",
+            "title": "General Pop/Electronic session",
+            "genre": "Pop/Electronic",
+            "tempo": 114,
+            "key": "C",
+            "scale": "Melodic Minor",
+            "synth": "Triangle",
+            "context": "General",
+            "vocal_config": {
+                "emotion": "Upbeat",
+                "pitch": "Standard",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Signal in the noise\nVerse: Digital dreams",
+            "prompt": "AI Pop/Electronic track for General. VOCALS: Upbeat, Standard pitch. MUSIC: 114BPM, high density.",
+            "popularity": 92,
+            "timestamp": "2026-03-07T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-7179",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 62,
+            "key": "A",
+            "scale": "Melodic Minor",
+            "synth": "Sawtooth",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Drifting stars",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 62BPM, high density.",
+            "popularity": 42,
+            "timestamp": "2026-03-08T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3973",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 62,
+            "key": "Bb",
+            "scale": "Pentatonic",
+            "synth": "Triangle",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Gentle ocean waves",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 62BPM, high density.",
+            "popularity": 18,
+            "timestamp": "2026-03-09T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-1902",
+            "title": "Sleep Pads/Slow session",
+            "genre": "Pads/Slow",
+            "tempo": 64,
+            "key": "F",
+            "scale": "Pentatonic",
+            "synth": "Sawtooth",
+            "context": "Sleep",
+            "vocal_config": {
+                "emotion": "Ethereal",
+                "pitch": "Soft",
+                "language": "English",
+                "vibrato": "Soft"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Quiet whispers\nVerse: Drifting stars",
+            "prompt": "AI Pads/Slow track for Sleep. VOCALS: Ethereal, Soft pitch. MUSIC: 64BPM, high density.",
+            "popularity": 68,
+            "timestamp": "2026-03-10T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-3470",
+            "title": "Workout Rap/Drill session",
+            "genre": "Rap/Drill",
+            "tempo": 131,
+            "key": "Eb",
+            "scale": "Minor",
+            "synth": "Sawtooth",
+            "context": "Workout",
+            "vocal_config": {
+                "emotion": "Aggressive",
+                "pitch": "High",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Break the limit\nVerse: Infinite energy",
+            "prompt": "AI Rap/Drill track for Workout. VOCALS: Aggressive, High pitch. MUSIC: 131BPM, high density.",
+            "popularity": 12,
+            "timestamp": "2026-03-11T18:17:21.200064"
+        },
+        {
+            "id": "TRACK-6574",
+            "title": "Focus Ambient/Lo-fi session",
+            "genre": "Ambient/Lo-fi",
+            "tempo": 94,
+            "key": "Bb",
+            "scale": "Pentatonic",
+            "synth": "Triangle",
+            "context": "Focus",
+            "vocal_config": {
+                "emotion": "Calm",
+                "pitch": "Medium-Low",
+                "language": "English",
+                "vibrato": "Natural"
+            },
+            "music_model": "Riffusion v2",
+            "vocal_model": "Suno v3.5/Diff-Singer",
+            "lyrics": "Chorus: Deep concentration\nVerse: Flowing silence",
+            "prompt": "AI Ambient/Lo-fi track for Focus. VOCALS: Calm, Medium-Low pitch. MUSIC: 94BPM, high density.",
+            "popularity": 23,
+            "timestamp": "2026-03-12T18:17:21.200064"
+        }
+    ],
+    "subscriptions": [],
+    "marketing_log": [
+        {
+            "track_id": "TRACK-1458",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Lo-fi 72! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2025-12-30T18:17:21.200064"
+        },
+        {
+            "timestamp": "2025-12-30T18:17:21.200064",
+            "message": "Promoted TRACK-1458 on TikTok"
+        },
+        {
+            "track_id": "TRACK-1680",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Sleep Cyberpunk 1! A unique Cyberpunk experience generated by AI. #MusicGen #AI",
+            "timestamp": "2025-12-31T18:17:21.200064"
+        },
+        {
+            "timestamp": "2025-12-31T18:17:21.200064",
+            "message": "Promoted TRACK-1680 on Twitter"
+        },
+        {
+            "track_id": "TRACK-5360",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Orchestral 90! A unique Orchestral experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-01T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-01T18:17:21.200064",
+            "message": "Promoted TRACK-5360 on TikTok"
+        },
+        {
+            "track_id": "TRACK-9444",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Deep House 14! A unique Deep House experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-02T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-02T18:17:21.200064",
+            "message": "Promoted TRACK-9444 on TikTok"
+        },
+        {
+            "track_id": "TRACK-8261",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Lo-fi 52! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-03T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-03T18:17:21.200064",
+            "message": "Promoted TRACK-8261 on TikTok"
+        },
+        {
+            "track_id": "TRACK-4464",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Sleep Cyberpunk 5! A unique Cyberpunk experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-04T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-04T18:17:21.200064",
+            "message": "Promoted TRACK-4464 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-7154",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Sleep Lo-fi 44! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-05T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-05T18:17:21.200064",
+            "message": "Promoted TRACK-7154 on Instagram"
+        },
+        {
+            "track_id": "TRACK-3473",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Sleep Lo-fi 5! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-06T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-06T18:17:21.200064",
+            "message": "Promoted TRACK-3473 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-2753",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Focus Synthwave 54! A unique Synthwave experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-07T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-07T18:17:21.200064",
+            "message": "Promoted TRACK-2753 on TikTok"
+        },
+        {
+            "track_id": "TRACK-2021",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: General Deep House 93! A unique Deep House experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-08T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-08T18:17:21.200064",
+            "message": "Promoted TRACK-2021 on Twitter"
+        },
+        {
+            "track_id": "TRACK-3325",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Focus Lo-fi 51! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-09T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-09T18:17:21.200064",
+            "message": "Promoted TRACK-3325 on TikTok"
+        },
+        {
+            "track_id": "TRACK-1150",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: General Synthwave 21! A unique Synthwave experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-10T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-10T18:17:21.200064",
+            "message": "Promoted TRACK-1150 on Twitter"
+        },
+        {
+            "track_id": "TRACK-7059",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Lo-fi 17! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-11T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-11T18:17:21.200064",
+            "message": "Promoted TRACK-7059 on TikTok"
+        },
+        {
+            "track_id": "TRACK-3597",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Sleep Synthwave 91! A unique Synthwave experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-12T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-12T18:17:21.200064",
+            "message": "Promoted TRACK-3597 on Instagram"
+        },
+        {
+            "track_id": "TRACK-9282",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Focus Cyberpunk 29! A unique Cyberpunk experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-13T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-13T18:17:21.200064",
+            "message": "Promoted TRACK-9282 on Twitter"
+        },
+        {
+            "track_id": "TRACK-6048",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Workout Lo-fi 51! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-14T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-14T18:17:21.200064",
+            "message": "Promoted TRACK-6048 on Instagram"
+        },
+        {
+            "track_id": "TRACK-6021",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Deep House 9! A unique Deep House experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-15T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-15T18:17:21.200064",
+            "message": "Promoted TRACK-6021 on TikTok"
+        },
+        {
+            "track_id": "TRACK-1044",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Focus Synthwave 82! A unique Synthwave experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-16T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-16T18:17:21.200064",
+            "message": "Promoted TRACK-1044 on Instagram"
+        },
+        {
+            "track_id": "TRACK-5503",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Sleep Orchestral 91! A unique Orchestral experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-17T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-17T18:17:21.200064",
+            "message": "Promoted TRACK-5503 on TikTok"
+        },
+        {
+            "track_id": "TRACK-6386",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Sleep Orchestral 38! A unique Orchestral experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-18T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-18T18:17:21.200064",
+            "message": "Promoted TRACK-6386 on Twitter"
+        },
+        {
+            "track_id": "TRACK-6232",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: General Deep House 100! A unique Deep House experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-19T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-19T18:17:21.200064",
+            "message": "Promoted TRACK-6232 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-2287",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Focus Cyberpunk 16! A unique Cyberpunk experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-20T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-20T18:17:21.200064",
+            "message": "Promoted TRACK-2287 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-8585",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: General Deep House 36! A unique Deep House experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-21T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-21T18:17:21.200064",
+            "message": "Promoted TRACK-8585 on Instagram"
+        },
+        {
+            "track_id": "TRACK-1190",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Focus Orchestral 29! A unique Orchestral experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-22T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-22T18:17:21.200064",
+            "message": "Promoted TRACK-1190 on TikTok"
+        },
+        {
+            "track_id": "TRACK-7998",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Focus Lo-fi 76! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-23T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-23T18:17:21.200064",
+            "message": "Promoted TRACK-7998 on Instagram"
+        },
+        {
+            "track_id": "TRACK-6769",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: General Cyberpunk 75! A unique Cyberpunk experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-24T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-24T18:17:21.200064",
+            "message": "Promoted TRACK-6769 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-4384",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Focus Lo-fi 59! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-25T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-25T18:17:21.200064",
+            "message": "Promoted TRACK-4384 on Twitter"
+        },
+        {
+            "track_id": "TRACK-2434",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: General Synthwave 96! A unique Synthwave experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-26T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-26T18:17:21.200064",
+            "message": "Promoted TRACK-2434 on Instagram"
+        },
+        {
+            "track_id": "TRACK-7103",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Focus Lo-fi 97! A unique Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-27T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-27T18:17:21.200064",
+            "message": "Promoted TRACK-7103 on Instagram"
+        },
+        {
+            "track_id": "TRACK-9838",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: General Synthwave 69! A unique Synthwave experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-28T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-28T18:17:21.200064",
+            "message": "Promoted TRACK-9838 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-1287",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Workout Synthwave 11! A unique Synthwave experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-29T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-29T18:17:21.200064",
+            "message": "Promoted TRACK-1287 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-9010",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-30T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-30T18:17:21.200064",
+            "message": "Promoted TRACK-9010 on Instagram"
+        },
+        {
+            "track_id": "TRACK-7720",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-01-31T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-01-31T18:17:21.200064",
+            "message": "Promoted TRACK-7720 on Twitter"
+        },
+        {
+            "track_id": "TRACK-3450",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-01T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-01T18:17:21.200064",
+            "message": "Promoted TRACK-3450 on TikTok"
+        },
+        {
+            "track_id": "TRACK-4402",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Workout Rap/Drill session! A unique Rap/Drill experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-02T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-02T18:17:21.200064",
+            "message": "Promoted TRACK-4402 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-3224",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Workout Rap/Drill session! A unique Rap/Drill experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-03T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-03T18:17:21.200064",
+            "message": "Promoted TRACK-3224 on TikTok"
+        },
+        {
+            "track_id": "TRACK-1847",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-04T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-04T18:17:21.200064",
+            "message": "Promoted TRACK-1847 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-6860",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-05T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-05T18:17:21.200064",
+            "message": "Promoted TRACK-6860 on TikTok"
+        },
+        {
+            "track_id": "TRACK-4107",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-06T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-06T18:17:21.200064",
+            "message": "Promoted TRACK-4107 on TikTok"
+        },
+        {
+            "track_id": "TRACK-9369",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-07T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-07T18:17:21.200064",
+            "message": "Promoted TRACK-9369 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-1389",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-08T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-08T18:17:21.200064",
+            "message": "Promoted TRACK-1389 on Instagram"
+        },
+        {
+            "track_id": "TRACK-5303",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-09T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-09T18:17:21.200064",
+            "message": "Promoted TRACK-5303 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-3991",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Workout Rap/Drill session! A unique Rap/Drill experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-10T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-10T18:17:21.200064",
+            "message": "Promoted TRACK-3991 on TikTok"
+        },
+        {
+            "track_id": "TRACK-6666",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-11T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-11T18:17:21.200064",
+            "message": "Promoted TRACK-6666 on Instagram"
+        },
+        {
+            "track_id": "TRACK-5737",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-12T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-12T18:17:21.200064",
+            "message": "Promoted TRACK-5737 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-1702",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-13T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-13T18:17:21.200064",
+            "message": "Promoted TRACK-1702 on Instagram"
+        },
+        {
+            "track_id": "TRACK-9535",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-14T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-14T18:17:21.200064",
+            "message": "Promoted TRACK-9535 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-9249",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Workout Rap/Drill session! A unique Rap/Drill experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-15T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-15T18:17:21.200064",
+            "message": "Promoted TRACK-9249 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-7826",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-16T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-16T18:17:21.200064",
+            "message": "Promoted TRACK-7826 on TikTok"
+        },
+        {
+            "track_id": "TRACK-2449",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-17T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-17T18:17:21.200064",
+            "message": "Promoted TRACK-2449 on TikTok"
+        },
+        {
+            "track_id": "TRACK-1126",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-18T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-18T18:17:21.200064",
+            "message": "Promoted TRACK-1126 on Twitter"
+        },
+        {
+            "track_id": "TRACK-5458",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-19T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-19T18:17:21.200064",
+            "message": "Promoted TRACK-5458 on Instagram"
+        },
+        {
+            "track_id": "TRACK-4010",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-20T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-20T18:17:21.200064",
+            "message": "Promoted TRACK-4010 on Instagram"
+        },
+        {
+            "track_id": "TRACK-9837",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-21T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-21T18:17:21.200064",
+            "message": "Promoted TRACK-9837 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-9545",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-22T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-22T18:17:21.200064",
+            "message": "Promoted TRACK-9545 on Twitter"
+        },
+        {
+            "track_id": "TRACK-1164",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-23T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-23T18:17:21.200064",
+            "message": "Promoted TRACK-1164 on TikTok"
+        },
+        {
+            "track_id": "TRACK-7656",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-24T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-24T18:17:21.200064",
+            "message": "Promoted TRACK-7656 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-8648",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-25T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-25T18:17:21.200064",
+            "message": "Promoted TRACK-8648 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-7766",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-26T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-26T18:17:21.200064",
+            "message": "Promoted TRACK-7766 on Instagram"
+        },
+        {
+            "track_id": "TRACK-7273",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-27T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-27T18:17:21.200064",
+            "message": "Promoted TRACK-7273 on Twitter"
+        },
+        {
+            "track_id": "TRACK-2673",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-02-28T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-02-28T18:17:21.200064",
+            "message": "Promoted TRACK-2673 on Twitter"
+        },
+        {
+            "track_id": "TRACK-5829",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-01T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-01T18:17:21.200064",
+            "message": "Promoted TRACK-5829 on TikTok"
+        },
+        {
+            "track_id": "TRACK-4260",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-02T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-02T18:17:21.200064",
+            "message": "Promoted TRACK-4260 on TikTok"
+        },
+        {
+            "track_id": "TRACK-8079",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-03T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-03T18:17:21.200064",
+            "message": "Promoted TRACK-8079 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-9122",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Workout Rap/Drill session! A unique Rap/Drill experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-04T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-04T18:17:21.200064",
+            "message": "Promoted TRACK-9122 on Twitter"
+        },
+        {
+            "track_id": "TRACK-9620",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-05T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-05T18:17:21.200064",
+            "message": "Promoted TRACK-9620 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-9461",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-06T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-06T18:17:21.200064",
+            "message": "Promoted TRACK-9461 on Instagram"
+        },
+        {
+            "track_id": "TRACK-1159",
+            "platform": "Spotify Editorial",
+            "copy": "\ud83d\udd25 New Release: General Pop/Electronic session! A unique Pop/Electronic experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-07T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-07T18:17:21.200064",
+            "message": "Promoted TRACK-1159 on Spotify Editorial"
+        },
+        {
+            "track_id": "TRACK-7179",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-08T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-08T18:17:21.200064",
+            "message": "Promoted TRACK-7179 on Instagram"
+        },
+        {
+            "track_id": "TRACK-3973",
+            "platform": "Instagram",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-09T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-09T18:17:21.200064",
+            "message": "Promoted TRACK-3973 on Instagram"
+        },
+        {
+            "track_id": "TRACK-1902",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Sleep Pads/Slow session! A unique Pads/Slow experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-10T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-10T18:17:21.200064",
+            "message": "Promoted TRACK-1902 on Twitter"
+        },
+        {
+            "track_id": "TRACK-3470",
+            "platform": "TikTok",
+            "copy": "\ud83d\udd25 New Release: Workout Rap/Drill session! A unique Rap/Drill experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-11T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-11T18:17:21.200064",
+            "message": "Promoted TRACK-3470 on TikTok"
+        },
+        {
+            "track_id": "TRACK-6574",
+            "platform": "Twitter",
+            "copy": "\ud83d\udd25 New Release: Focus Ambient/Lo-fi session! A unique Ambient/Lo-fi experience generated by AI. #MusicGen #AI",
+            "timestamp": "2026-03-12T18:17:21.200064"
+        },
+        {
+            "timestamp": "2026-03-12T18:17:21.200064",
+            "message": "Promoted TRACK-6574 on Twitter"
+        }
+    ],
+    "billing_log": [
+        {
+            "timestamp": "2026-01-29T18:17:21.200064",
+            "message": "Processed monthly billing. Revenue: $100.0"
+        }
+    ],
+    "music_log": [
+        {
+            "timestamp": "2025-12-30T18:17:21.200064",
+            "message": "Generated new track: General Lo-fi 72"
+        },
+        {
+            "timestamp": "2025-12-31T18:17:21.200064",
+            "message": "Generated new track: Sleep Cyberpunk 1"
+        },
+        {
+            "timestamp": "2026-01-01T18:17:21.200064",
+            "message": "Generated new track: General Orchestral 90"
+        },
+        {
+            "timestamp": "2026-01-02T18:17:21.200064",
+            "message": "Generated new track: General Deep House 14"
+        },
+        {
+            "timestamp": "2026-01-03T18:17:21.200064",
+            "message": "Generated new track: General Lo-fi 52"
+        },
+        {
+            "timestamp": "2026-01-04T18:17:21.200064",
+            "message": "Generated new track: Sleep Cyberpunk 5"
+        },
+        {
+            "timestamp": "2026-01-05T18:17:21.200064",
+            "message": "Generated new track: Sleep Lo-fi 44"
+        },
+        {
+            "timestamp": "2026-01-06T18:17:21.200064",
+            "message": "Generated new track: Sleep Lo-fi 5"
+        },
+        {
+            "timestamp": "2026-01-07T18:17:21.200064",
+            "message": "Generated new track: Focus Synthwave 54"
+        },
+        {
+            "timestamp": "2026-01-08T18:17:21.200064",
+            "message": "Generated new track: General Deep House 93"
+        },
+        {
+            "timestamp": "2026-01-09T18:17:21.200064",
+            "message": "Generated new track: Focus Lo-fi 51"
+        },
+        {
+            "timestamp": "2026-01-10T18:17:21.200064",
+            "message": "Generated new track: General Synthwave 21"
+        },
+        {
+            "timestamp": "2026-01-11T18:17:21.200064",
+            "message": "Generated new track: General Lo-fi 17"
+        },
+        {
+            "timestamp": "2026-01-12T18:17:21.200064",
+            "message": "Generated new track: Sleep Synthwave 91"
+        },
+        {
+            "timestamp": "2026-01-13T18:17:21.200064",
+            "message": "Generated new track: Focus Cyberpunk 29"
+        },
+        {
+            "timestamp": "2026-01-14T18:17:21.200064",
+            "message": "Generated new track: Workout Lo-fi 51"
+        },
+        {
+            "timestamp": "2026-01-15T18:17:21.200064",
+            "message": "Generated new track: General Deep House 9"
+        },
+        {
+            "timestamp": "2026-01-16T18:17:21.200064",
+            "message": "Generated new track: Focus Synthwave 82"
+        },
+        {
+            "timestamp": "2026-01-17T18:17:21.200064",
+            "message": "Generated new track: Sleep Orchestral 91"
+        },
+        {
+            "timestamp": "2026-01-18T18:17:21.200064",
+            "message": "Generated new track: Sleep Orchestral 38"
+        },
+        {
+            "timestamp": "2026-01-19T18:17:21.200064",
+            "message": "Generated new track: General Deep House 100"
+        },
+        {
+            "timestamp": "2026-01-20T18:17:21.200064",
+            "message": "Generated new track: Focus Cyberpunk 16"
+        },
+        {
+            "timestamp": "2026-01-21T18:17:21.200064",
+            "message": "Generated new track: General Deep House 36"
+        },
+        {
+            "timestamp": "2026-01-22T18:17:21.200064",
+            "message": "Generated new track: Focus Orchestral 29"
+        },
+        {
+            "timestamp": "2026-01-23T18:17:21.200064",
+            "message": "Generated new track: Focus Lo-fi 76"
+        },
+        {
+            "timestamp": "2026-01-24T18:17:21.200064",
+            "message": "Generated new track: General Cyberpunk 75"
+        },
+        {
+            "timestamp": "2026-01-25T18:17:21.200064",
+            "message": "Generated new track: Focus Lo-fi 59"
+        },
+        {
+            "timestamp": "2026-01-26T18:17:21.200064",
+            "message": "Generated new track: General Synthwave 96"
+        },
+        {
+            "timestamp": "2026-01-27T18:17:21.200064",
+            "message": "Generated new track: Focus Lo-fi 97"
+        },
+        {
+            "timestamp": "2026-01-28T18:17:21.200064",
+            "message": "Generated new track: General Synthwave 69"
+        },
+        {
+            "timestamp": "2026-01-29T18:17:21.200064",
+            "message": "Generated new track: Workout Synthwave 11"
+        },
+        {
+            "timestamp": "2026-01-30T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-01-30T18:17:21.200064",
+            "message": "Updated playlists for 1 moods"
+        },
+        {
+            "timestamp": "2026-01-31T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-01-31T18:17:21.200064",
+            "message": "Updated playlists for 1 moods"
+        },
+        {
+            "timestamp": "2026-02-01T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-01T18:17:21.200064",
+            "message": "Updated playlists for 2 moods"
+        },
+        {
+            "timestamp": "2026-02-02T18:17:21.200064",
+            "message": "Generated Enhanced Track: Workout Rap/Drill session (Aggressive vocals)"
+        },
+        {
+            "timestamp": "2026-02-02T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-03T18:17:21.200064",
+            "message": "Generated Enhanced Track: Workout Rap/Drill session (Aggressive vocals)"
+        },
+        {
+            "timestamp": "2026-02-03T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-04T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-04T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-05T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-05T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-06T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-02-06T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-07T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-07T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-08T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-02-08T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-09T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-09T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-10T18:17:21.200064",
+            "message": "Generated Enhanced Track: Workout Rap/Drill session (Aggressive vocals)"
+        },
+        {
+            "timestamp": "2026-02-10T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-11T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-11T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-12T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-12T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-13T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-02-13T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-14T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-14T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-15T18:17:21.200064",
+            "message": "Generated Enhanced Track: Workout Rap/Drill session (Aggressive vocals)"
+        },
+        {
+            "timestamp": "2026-02-15T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-16T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-16T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-17T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-17T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-18T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-18T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-19T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-19T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-20T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-02-20T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-21T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-21T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-22T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-02-22T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-23T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-23T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-24T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-24T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-25T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-25T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-26T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-26T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-27T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-02-27T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-02-28T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-02-28T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-01T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-03-01T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-02T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-03-02T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-03T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-03-03T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-04T18:17:21.200064",
+            "message": "Generated Enhanced Track: Workout Rap/Drill session (Aggressive vocals)"
+        },
+        {
+            "timestamp": "2026-03-04T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-05T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-03-05T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-06T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-03-06T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-07T18:17:21.200064",
+            "message": "Generated Enhanced Track: General Pop/Electronic session (Upbeat vocals)"
+        },
+        {
+            "timestamp": "2026-03-07T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-08T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-03-08T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-09T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-03-09T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-10T18:17:21.200064",
+            "message": "Generated Enhanced Track: Sleep Pads/Slow session (Ethereal vocals)"
+        },
+        {
+            "timestamp": "2026-03-10T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-11T18:17:21.200064",
+            "message": "Generated Enhanced Track: Workout Rap/Drill session (Aggressive vocals)"
+        },
+        {
+            "timestamp": "2026-03-11T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        },
+        {
+            "timestamp": "2026-03-12T18:17:21.200064",
+            "message": "Generated Enhanced Track: Focus Ambient/Lo-fi session (Calm vocals)"
+        },
+        {
+            "timestamp": "2026-03-12T18:17:21.200064",
+            "message": "Updated playlists for 3 moods"
+        }
+    ],
+    "playlists": {
+        "Ultimate Workout Mix": [
+            "Workout Rap/Drill session",
+            "Workout Rap/Drill session",
+            "Workout Rap/Drill session",
+            "Workout Rap/Drill session",
+            "Workout Rap/Drill session"
+        ],
+        "Ultimate Focus Mix": [
+            "Focus Ambient/Lo-fi session",
+            "Focus Ambient/Lo-fi session",
+            "Focus Ambient/Lo-fi session",
+            "Focus Ambient/Lo-fi session",
+            "Focus Ambient/Lo-fi session"
+        ],
+        "Ultimate Sleep Mix": [
+            "Sleep Pads/Slow session",
+            "Sleep Pads/Slow session",
+            "Sleep Pads/Slow session",
+            "Sleep Pads/Slow session",
+            "Sleep Pads/Slow session"
+        ]
+    }
+}
