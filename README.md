@@ -121,8 +121,8 @@ The system outputs tangible evidence of its autonomous operation, designed for a
     | :---: | :---: |
     | ![Revenue](docs/images/revenue_chart.svg) | ![Catalog](docs/images/catalog_chart.svg) |
 
-*   **Demo Video**: `demo.mp4`
-    *   (Optional) Screen recording of the autonomous agent loop in action.
+*   **Demo Video**: [Watch the Autonomous Loop (WebP)](docs/media/demo.webp)
+    *   Screen recording of the autonomous agent loop, showing reactive billing and marketing log updates.
 
 ---
 
