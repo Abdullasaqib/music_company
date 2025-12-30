@@ -3,6 +3,8 @@
 
 **Nimbus** is a fully autonomous digital music company simulation. It simulates the entire lifecycle of a modern music label—from AI-driven track generation and aesthetic visualization to marketing campaigns and SaaS revenue management—all within a futuristic, glassmorphic dashboard.
 
+> **Note**: To remain reproducible on low-resource systems, music generation is implemented via procedural audio and simulated agent behavior, with optional integration points for external generative music APIs.
+
 ---
 
 ## 🚀 Features
@@ -54,7 +56,7 @@ graph TD
 ### Data Flow
 1.  **Simulation Script**: Runs in the background (Python), generating new tracks and sales every few seconds/minutes.
 2.  **State Management**: `company_state.json` acts as the single source of truth.
-3.  **Frontend Sync**: The dashboard polls `company_state.json` every 5 seconds to reflect new "backend" events, while handling immediate user interactions (playback, withdrawal) locally.
+3.  **Frontend Sync**: The dashboard polls `company_state.json` every 5 seconds to reflect new "backend" events, while handling immediate user interactions (playback, withdrawal) locally. *JSON polling is used intentionally to keep the system simple, deterministic, and hardware-efficient; this could be replaced with event-driven messaging in a production deployment.*
 
 ---
 
@@ -68,7 +70,7 @@ nimbus-challenge/
 │   └── app.js               # UI Logic, Audio Engine, State Management
 ├── data/                    # Data Storage
 │   └── company_state.json   # Persistent JSON Database
-├── agents/                  # (Conceptual) Python Agent Logic
+├── agents/                  # Python-based autonomous agents
 │   ├── music_agent.py
 │   ├── billing_agent.py
 │   └── marketing_agent.py
@@ -94,6 +96,13 @@ nimbus-challenge/
     *   **Simulate Growth**: Go to **Billing** -> Click **"Trigger Multi-Day Growth"**.
     *   **Withdraw Funds**: Go to **Billing** -> Click **"Withdraw Revenue"**.
     *   **View Campaigns**: Check the **Marketing** tab for recent social blasts.
+
+4.  **Run the Backend Agents (Optional)**:
+    To enable the 24/7 autonomous simulation with Suno/Riffusion logic:
+    ```bash
+    python main.py
+    ```
+    This script will run in the background, generating new tracks and managing finances automatically.
 
 ---
 
