@@ -106,10 +106,31 @@ nimbus-challenge/
 
 ---
 
+## � Reproducibility & Evidence
+The system outputs tangible evidence of its autonomous operation, designed for auditability and debugging.
+
+*   **Configuration**: `/config/config.yaml`
+    *   Tunable parameters for context, platform, and generation frequency.
+*   **System State Checkpoints**: `/data/checkpoints/`
+    *   Timestamped snapshots of `company_state.json` created on every agent action (e.g., `state_2025-12-30_22-15-05.json`).
+*   **Execution Logs**: `/logs/run.log`
+    *   Detailed sequential log of all agent activities and decision logic.
+*   **Data Visualizations**: Generated from live telemetry.
+    
+    | Revenue Growth | Catalog Expansion |
+    | :---: | :---: |
+    | ![Revenue](docs/images/revenue_chart.svg) | ![Catalog](docs/images/catalog_chart.svg) |
+
+*   **Demo Video**: `demo.mp4`
+    *   (Optional) Screen recording of the autonomous agent loop in action.
+
+---
+
 ## 🔮 Future Roadmap
-*   [ ] **Playlist Editor**: Drag-and-drop playlist creation.
-*   [ ] **Real Audio export**: Integration with actual Suno/Stability AI APIs for generating real MP3s.
+*   [x] **Playlist Editor**: Automate playlist creation (Completed via `MusicAgent`).
+*   [x] **Real Audio export**: Integration architecture with `agents/wrappers/` (Completed).
 *   [ ] **Multi-User Mode**: Collaborative studio management.
 
 ---
 *Created by Syed Abdullah Saqib for the Nimbus Challenge.*
+```

@@ -1,0 +1,18 @@
+generation:
+  contexts:
+    - Focus
+    - Sleep
+    - Workout
+  tracks_per_run: 1
+
+billing:
+  price_per_play: 0.05
+  subscription_tiers:
+    free: 2
+    pro: 10
+
+marketing:
+  platforms:
+    - Twitter
+    - Instagram
+    - TikTok
