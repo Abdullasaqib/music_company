@@ -123,10 +123,13 @@ The system outputs tangible evidence of its autonomous operation, designed for a
 
 *   **Demo Video**:
     
-    <video src="https://github.com/Abdullasaqib/music_company/raw/main/docs/media/demo_full.mp4" controls="controls" autoplay="autoplay" loop="loop" muted="muted" style="max-width: 100%;">
-      Your browser does not support the video tag.
+*   **Demo Video**:
+    
+    <video src="docs/media/demo_full.mp4" controls="controls" style="max-width: 100%;">
     </video>
     
+    > **Note**: If the video above does not play, [Click Here to Watch](docs/media/demo_full.mp4).
+
     *   *Full walkthrough of the autonomous agent loop, showing reactive billing and marketing log updates.*
 
 ---
